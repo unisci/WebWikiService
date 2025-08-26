@@ -1,4 +1,3 @@
 Do not use, copy or download this Repository. This project is a closed source project. All functions are on the Wiki page.  
 We only provide 简体中文 services. If you need other languages, such as English, please use the translation function of your browser.   
-请勿使用、复制或下载本仓库。本项目为闭源项目。本项目提供的服务请参见Wiki页面。
-[测试](../../wiki)
+请勿使用、复制或下载本仓库。本项目为闭源项目。本项目提供的服务请参见[Wiki页面](../../wiki)。
